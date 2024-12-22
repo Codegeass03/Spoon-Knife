@@ -1,0 +1,21 @@
+.odd {
+    background-color: #ffc6c6;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#two{
+    color:#0916cc;
+    font-size: 36px;
+}
+
+.odd adjust-font-size{
+    font-size: 24px;
+}
+
+
+#four{
+background-color: #5bff9a;
+font-size: 24px;
+font-weight: bold;
+}
+
